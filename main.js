@@ -65,6 +65,12 @@ function closeCart() {
     sidebar.classList.add('sidebar_active');
 }
 
+function closeCart_2(variable) {
+    if(variable){
+            sidebar.classList.add('sidebar_active');
+    }
+}
+
 
 // Saving to localStorage ()
 localStorage.setItem('cart', JSON.stringify({
