@@ -71,7 +71,7 @@ function closeCart_2(variable) {
     }
 }
 
-// charles-haris, B
+// charles-haris, BO
 // Saving to localStorage ()
 localStorage.setItem('cart', JSON.stringify({
     name: "kofi",
