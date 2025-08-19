@@ -1,5 +1,6 @@
 let products_container = document.querySelector('.products_container');
 let cart = []
+//
 var toggler = document.querySelector('.toggler');
 var sidebar = document.getElementById('sidebar');
 var cart_items = document.querySelector('.cart_items');
